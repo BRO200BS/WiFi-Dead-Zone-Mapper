@@ -2,6 +2,8 @@
 
 Map WiFi signal strength throughout your home and visualize dead zones with heat maps.
 
+<img width="2766" height="2498" alt="wifi_3d" src="https://github.com/user-attachments/assets/ee102f67-304c-423f-8c37-5b078094d0d7" />
+<img width="3382" height="2970" alt="example_heatmap" src="https://github.com/user-attachments/assets/cda21ea6-64e8-47e3-8595-545e8745edaa" />
 
 ## Features
 
