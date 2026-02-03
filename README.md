@@ -1,7 +1,7 @@
 # WiFi Dead Zone Mapper
 
 Map WiFi signal strength throughout your home and visualize dead zones with heat maps.
-https://github.com/BRO200BS/WiFi-Dead-Zone-Mapper/blob/main/example_heatmap.png
+
 
 ## Features
 
